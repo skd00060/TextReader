@@ -14,7 +14,7 @@ import android.util.Log;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
-    private static final int REQUEST_CODE=100;
+    private static final int REQUEST_CODE=100; // 돌아온 갓둘라 카덥
     private MediaProjectionManager mpm;
     private static MediaProjection mp;
     private VirtualDisplay vd;
